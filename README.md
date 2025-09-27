@@ -10,8 +10,8 @@ The analysis highlights dominant eras, team rivalries, and shifts in racing hist
 
 ## 📦 Dataset
 
-**Source**: [Formula 1 Winners Dataset on Kaggle](https://www.kaggle.com/) *(replace with exact link you used)*  
-**Provider**: Kaggle Contributor *(update with dataset author name if available)*  
+**Source**: [Formula 1 Winners Dataset on Kaggle](https://www.kaggle.com/datasets/julianbloise/winners-formula-1-1950-to-2025)  
+**Provider**: Julian Bloise  
 
 **Filename**: `formula1_winners.csv`  
 **Location**: Stored in the `data/` folder  
