@@ -1,1 +1,12 @@
+-- Objective:
+-- Clean and standardize the Formula 1 Grand Prix Winners dataset
+-- to ensure consistency and reliability for analysis.
+-- This step is to focus on formatting, handling missing values,
+-- and creating helper fields for trend exploration.
 
+-- Key Actions:
+-- 1. Import and preview raw data.
+-- 2. Convert race_data into proper DATE format.
+-- 3. Standarize driver and constructor names (consistent casing, trim spaces).
+-- 4. Handle missing values in race_time, laps, and key identifiers.
+-- 5. Create helper columns (race_year, race_decade) for historical comparisons.
