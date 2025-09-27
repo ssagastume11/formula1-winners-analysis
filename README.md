@@ -50,17 +50,45 @@ The main objective of this analysis is to uncover patterns in Formula 1 winners 
 ```plaintext
 formula1-winners-analysis/
 ├── data/                    
-│   └── formula1_winners.csv
-├── notebooks/                
-│   ├── 01_prepare_data.R
-│   ├── 02_analysis.R
-│   └── 03_visualizations.R
-├── outputs/                 
-│   ├── charts/
-│   │   ├── total_wins_by_constructor.png
-│   │   └── wins_in_decade_by_race_decade.png
-│   └── reports/
-├── slides/                  
-│   └── Formula1_Winners_Presentation.pptx
+│   └── winners_f1_1950_2025_v2.csv.csv
+├── sql/                
+│   ├── Step 2_Prepare.sql
+│   ├── Step 4_Analyze.sql
+│   └── Step 5_Share.sql
+├── visuals/
+│   │   ├── total_wins by constructor.png
+│   │   └── wins_in_decade by race_decade.png
+├── presentation/                  
+│   └── Formula1_Winners_Analysis_Presentation.md
 └── README.md
 ```
+
+---
+
+## 📈 Analysis Output
+The final visualizations, saved in the `visuals/` folder, include:
+- 🏆 Total Wins by Constructor – highlights dominant teams in F1 history
+- ⏳ Wins by Decade – shows which teams and drivers defined each era
+
+---
+
+## 🧾 Presentation
+The final presentation (in the `presentation/` folder) summarizes:
+- Project purpose and cope
+- Data Preparation steps
+- Key findings with visuals
+- Actionable inisghts
+
+---
+
+## ✅ Next Steps
+- Expand analysis to include driver nationalities and circuits
+- Compare performance between decades and rule changes
+- Create an interactive dashboard with Shiny or Tableau
+- Incorporate constructor vs. driver performance comparisons
+
+---
+
+## 🙌 Acknowledgments
+- Dataset courtesy of [Julian Bloise on Kaggle](https://www.kaggle.com/datasets/julianbloise/winners-formula-1-1950-to-2025)
+- Tools powered by R, tidyverse, GitHub, and open source communities.
