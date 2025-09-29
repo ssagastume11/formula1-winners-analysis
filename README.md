@@ -1,6 +1,17 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/ssagastume11/formula1-winners-analysis)
 ![Last Commit](https://img.shields.io/github/last-commit/ssagastume11/formula1-winners-analysis)
 
+---
+
+## 📊 Interactive Dashboard  
+
+Explore Tableau's interactive dashboard for a deeper analysis of the Formula 1 winners dataset.
+The dashboard highlights driver dominance, constructor performance, and historical racing trends over decades.  
+
+🔗 [View the Tableau Dashboard](https://public.tableau.com/views/Formula1WInnersAnalysis1950-2025/Formula1WinnersAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+---
+
 # 🏎️ Formula 1 Winners Dataset Analysis
 
 This project analyzes Formula 1 race winners across decades, focusing on drivers, constructors, and historical performance trends.  
